@@ -193,6 +193,14 @@ h1, h2, h3, h4, h5, h6 {
   height: 90px;
 }
 
+/*#header #homeicon {
+  float:right;
+  padding: 0;
+  margin: 0;
+  max-height: 50px;
+
+} */
+
 #header #logo {
   float: left;
 }
@@ -711,6 +719,15 @@ body.mobile-nav-active #mobile-nav-toggle {
     transform: rotate(360deg);
   }
 }
+
+/* Registration Section
+--------------------------------*/
+
+#registration {
+    background: #fff;
+    padding: 80px 0;
+}
+
 
 /*--------------------------------------------------------------
 # Breadcrumbs
