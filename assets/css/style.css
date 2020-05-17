@@ -728,6 +728,15 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding: 80px 0;
 }
 
+#thanks {
+    background: #fff;
+    padding: 80px 0;
+}
+
+#thanks .thankscontent {
+    text-align: center;
+}
+
 
 /*--------------------------------------------------------------
 # Breadcrumbs
